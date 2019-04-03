@@ -1,0 +1,6 @@
+0
+[NARANJA] (1,1) Horizontal_Derecha
+[PERRO] (5,5) Horizontal_Derecha
+[OMAR] (3,2) Horizontal_Derecha
+[RENDON] (1,4) Horizontal_Derecha
+[KARIM] (9,3) Horizontal_Izquierda
